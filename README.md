@@ -1,7 +1,7 @@
 # Pagina Inicial do instagram
 Desafio de projeto sobre html e css "pagina inicial do instagram" da Dio
 
-Pagina estilizada de forma que fique o mais responsiva possível, para melhor visualização indepedente do dispositivo que esteja acessando 
+Pagina estilizada de forma que fique o mais responsiva possível, para melhor visualização indepedente de qual dispositivo seja utilizado para acessa-la
 
 ## URL do projeto 
 
