@@ -1,6 +1,5 @@
 # Pagina Inicial do instagram
 Desafio de projeto sobre html e css "pagina inicial do instagram" da Dio
-## Links úteis
 
 [ Visualizar projeto ]( https://gabrieldnzz.github.io/instagram-dio/ )
 
