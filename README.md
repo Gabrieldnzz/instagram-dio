@@ -1,9 +1,9 @@
-# Pagina Inicial do instagram
-Desafio de projeto sobre html e css "pagina inicial do instagram" da Dio
+# Pagina Inicial do Instagram
+Desafio de projeto sobre html e css "pagina inicial do Instagram" da Dio
 
-Pagina estilizada de forma que fique o mais responsiva possível, para melhor visualização indepedente de qual dispositivo seja utilizado para acessa-la
+Pagina estilizada de forma que fique o mais responsiva possível, para melhor visualização independente de qual dispositivo seja utilizado para acessa-la
 
-## URL do projeto 
+## URL do projeto
 
 [ Visualizar ]( https://gabrieldnzz.github.io/instagram-dio/ )
 
